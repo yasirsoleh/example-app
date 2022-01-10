@@ -4,7 +4,7 @@ Below we will create a new Laravel project with Laravel Breeze authentication sc
 One time step only. To prepare the development environment.
 
 ### Install
-Please download and install prerequisites list below. For Linux and macOS users,Windows Subsystem for Linux and Windows Terminal is not need. Instructions that call for usage of Windows Terminal, just use normal terminal emulator.
+Please download and install prerequisites listed below. For Linux and macOS users,Windows Subsystem for Linux and Windows Terminal is not needed. Instructions that call for usage of Windows Terminal, just use normal terminal emulator.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Laravel Extension Pack for VS Code](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack)
 - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install)
