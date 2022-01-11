@@ -123,7 +123,7 @@ sail artisan db:seed
 
 ### 3. Manage the Database
 
-Open Beekeeper Studio. Then choose the connection type which is MariaDB. Set the host as 'localhost', port is '3306', User is 'sail' and Password is 'password', connection name will be the name of your project. Click save and then connect.
+Open Beekeeper Studio. Then choose the connection type which is MySQL. Set the host as 'localhost', port is '3306', User is 'sail' and Password is 'password', connection name will be the name of your project. Click save and then connect.
 
 ### 4. Make Your First Git Commit
 Create a New Repository in your GitHub. The repository should be same as the name of your project for example in this case, `example-app`. 
@@ -280,7 +280,7 @@ cp .env.example .env
 ```
 ### 5. Edit .env and change the variable as follows
 ```
-DB_HOST=mariadb
+DB_HOST=mysql
 DB_USERNAME=sail
 DB_PASSWORD=password
 ```
